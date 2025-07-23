@@ -15,6 +15,15 @@ This repository accompanies the manuscript **“Modeling of a Reverse Water–Ga
   2. Evaluate ensembles (Random Forest, Gradient Boosting)  
   3. Train artificial neural networks (ANN)  
   4. Interpret models with SHAP analysis
+ 
+## Citation
+@article{Komatz2025,
+  author    = {Enzo Komatz and Marion Andritz and Markus Lehner and Christoph Markowitsch},
+  title     = {Modeling of a Reverse Water–Gas Shift Reactor with Machine Learning},
+  journal   = {High Impact Journal},
+  year      = {2025},
+  doi       = {10.xxx/hi-2025-001},
+}
 
 ## Installation
 
@@ -29,11 +38,4 @@ source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 
-## Citation
-@article{Komatz2025,
-  author    = {Enzo Komatz and Marion Andritz and Markus Lehner and Christoph Markowitsch},
-  title     = {Modeling of a Reverse Water–Gas Shift Reactor with Machine Learning},
-  journal   = {High Impact Journal},
-  year      = {2025},
-  doi       = {10.xxx/hi-2025-001},
-}
+
