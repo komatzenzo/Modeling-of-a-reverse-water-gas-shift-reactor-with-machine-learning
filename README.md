@@ -6,10 +6,10 @@ This repository accompanies the manuscript **“Modeling of a Reverse Water–Ga
 
 - **Challenge:** The RWGS reaction network involves competing pathways and both kinetic and thermodynamic limitations.  
 - **Data:** Simulated reactor outputs across:  
-  - Temperature (`Tout`, 400–800 °C)  
-  - Pressure (`pset`, 1–30 bar)  
+  - Temperature (`Tout`, 400–950 °C)  
+  - Pressure (`pset`, 1–8 bar)  
   - H₂/CO₂ feed ratio  
-  - Gas Hourly Space Velocity (`GHSV`)  
+  - Gas Hourly Space Velocity (`GHSV`, s^-1)  
 - **Objectives:**  
   1. Benchmark simple regressors (Linear, Lasso, Decision Tree)  
   2. Evaluate ensembles (Random Forest, Gradient Boosting)  
