@@ -11,13 +11,7 @@ Accurate modelling of the reverse water-gas shift (RWGS) reaction is key for ena
   - Gas Hourly Space Velocity (`GHSV`, s^-1)  
  
 ## Citation
-@article{Komatz2025,
-  author    = {Enzo Komatz and Marion Andritz and Markus Lehner and Christoph Markowitsch},
-  title     = {Modeling of a Reverse Water–Gas Shift Reactor with Machine Learning},
-  journal   = {High Impact Journal},
-  year      = {2025},
-  doi       = {10.xxx/hi-2025-001},
-}
+
 
 ## Installation
 
